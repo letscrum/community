@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="190" viewBox="0 0 820 190">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 160px;
+        font-family: Impact;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #999;
+      }
+
+      .cls-2, .cls-3 {
+        stroke: #000;
+        stroke-width: 1px;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #900;
+      }
+    </style>
+  </defs>
+  <text id="LetScrum" class="cls-1" x="207.628" y="157.934">LetScrum</text>
+  <path id="矩形_1" data-name="矩形 1" class="cls-2" d="M96.831,160.993h74.463v20.013H96.831V160.993Zm0,0h74.463v20.013H96.831V160.993Z"/>
+  <path id="矩形_1-2" data-name="矩形 1" class="cls-3" d="M15.13,160.9h81.7v20.009H15.13V160.9Zm0,0h81.7v20.009H15.13V160.9Z"/>
+  <path id="三角形_1" data-name="三角形 1" class="cls-4" d="M193.368,171l-22.074,18.542V152.457Z"/>
+  <path id="椭圆_4" data-name="椭圆 4" class="cls-4" d="M36.79,0A36.79,36.79,0,1,1,0,36.79,36.79,36.79,0,0,1,36.79,0Zm0.123,14.891a21.78,21.78,0,1,1-21.78,21.78A21.78,21.78,0,0,1,36.913,14.891Z"/>
+  <path id="椭圆_2" data-name="椭圆 2" class="cls-5" d="M96.831,36.79A72.108,72.108,0,1,1,24.723,108.9,72.108,72.108,0,0,1,96.831,36.79Zm0,20.308a51.8,51.8,0,1,1-51.8,51.8A51.8,51.8,0,0,1,96.831,57.1Z"/>
+</svg>
